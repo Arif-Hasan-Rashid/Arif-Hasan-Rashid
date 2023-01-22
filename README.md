@@ -13,9 +13,7 @@ Skills: C / C++ / Python / Java / Php / JS / HTML / CSS
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arif-Hasan-Rashid)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arif-Hasan-Rashid&show_icons=true&count_private=true)  
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Arif-Hasan-Rashid)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Arif-Hasan-Rashid&show_icons=true&count_private=true)   
 
 ![GitHub metrics](https://metrics.lecoq.io/Arif-Hasan-Rashid)  
 
